@@ -10,7 +10,7 @@ You will need to run composer to install codeigniter, guzzle and required pre-re
 
 # What is NetCode
 
-NetCode is the smart way to generate time-sensitive code which allow for temporary access to a compatible lock. NetCodes start at specific date and times for set durations.
+NetCode is the smart way to generate time-sensitive codes which allow for temporary access to a compatible lock. NetCodes start at specific date and times for set durations.
 
 ## NetCode Notes
 
