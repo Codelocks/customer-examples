@@ -2,6 +2,10 @@
 
 The Codelocks Connect API is a REST API which is provided to customers to retreive NetCodes for compatible Codelocks and Kitlock locks. This repo is a simple example of making a request to the API using Guzzle inside the PHP Codeigniter framework.
 
+## Before you start
+For development and testing you will require familiarity with PHP and the [Composer dependency manager](https://getcomposer.org) and REST API concepts. This example features the widely used [Codeigniter](https://www.codeigniter.com) framework and[Guzzle HTTP client](https://docs.guzzlephp.org/). For assistance with either package, please refer to their respective websites and user groups.
+
+## Getting started
 You will need to run composer to install codeigniter, guzzle and required pre-requisites.
 
 # What is NetCode
