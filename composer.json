@@ -1,0 +1,6 @@
+{
+    "require": {
+        "codeigniter4/framework": "^4.1",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}

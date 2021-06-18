@@ -14,4 +14,16 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-/vendor/
+
+#-------------------------
+# Composer
+#-------------------------
+vendor/
+
+#-------------------------
+# Visual Studio
+#-------------------------
+*.sln
+*.phpproj
+/.vs
+/writable/logs/log-2021-06-18.log
