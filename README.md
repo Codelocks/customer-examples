@@ -1,6 +1,6 @@
 # Codelocks Connect API
 
-The Codelocks Connect API is a REST API which is provided to customers to retreive NetCodes for compatible Codelocks and Kitlock locks.
+The Codelocks Connect API is a REST API which is provided to customers to retreive NetCodes for compatible Codelocks and Kitlock locks. This repo is a simple example of making a request to the API using Guzzle inside the PHP Codeigniter framework.
 
 # What is NetCode
 
