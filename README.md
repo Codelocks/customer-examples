@@ -50,8 +50,8 @@ For more information go to https://codelocksconnect.net
 
 ## Smart Lock Range
 
-- K3Connect app (iOS and Android) is required to configure the lock.
-- Programatic Access to list of locks associated with K3Connect account (different account to Codelocks Connect account) is available.
+- C3Smart app (iOS and Android) is required to configure the lock. (https://c3smart.net)
+- Programatic Access to list of locks associated with C3Smart account (different account to Codelocks Connect account) is available.
 
 # More Information
 
